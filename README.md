@@ -22,7 +22,7 @@ Installation
 To use parquet.js with node.js, install it using npm:
 
 ```
-  $ npm install parquetjs-lite
+  $ npm install parquetjs-aws
 ```
 
 _parquet.js requires node.js >= 7.6.0_
