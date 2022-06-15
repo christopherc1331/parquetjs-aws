@@ -2,7 +2,7 @@
   "name": "parquetjs-aws",
   "description": "fully asynchronous, pure JavaScript implementation of the Parquet file format",
   "main": "parquet.js",
-  "version": "0.8.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/christopherc1331/parquetjs-aws",
   "author": "chris ",
   "license": "MIT",
